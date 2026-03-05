@@ -1,0 +1,8 @@
+{
+  "name": "DentaVision AI",
+  "description": "A futuristic AI-powered dental care application for smart diagnostics, virtual consultations, and personalized oral health management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
